@@ -1,1 +1,2 @@
 music/** filter=lfs diff=lfs merge=lfs -text
+music/Hacknet_Soundtrack_Complete.mp3 filter=lfs diff=lfs merge=lfs -text
